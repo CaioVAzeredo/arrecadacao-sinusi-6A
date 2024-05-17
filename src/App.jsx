@@ -2,10 +2,7 @@ import Valor from "./componentes/"
 function App() {
 
   return (
-    <>
-      <Valor />
-    </>
-
+    <Valor />
   )
 }
 
