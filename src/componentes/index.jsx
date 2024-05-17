@@ -7,7 +7,7 @@ const Valor = () => {
             <h2 className="valor">
                 R$ 0,00
             </h2>
-            <img src="./public/imagens/QRCODE.jpg" className="img"/>
+            <img src='/imagens/qr.jpg' alt='Logo do Organo'/>
             <p className="p"><strong>Chave Pix </strong>39514655-1493-44cf-ba9c-2f0b78777ccf</p>
 
         </div>
