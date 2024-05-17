@@ -1,0 +1,17 @@
+.valor{
+    font-family: 'Montserrat', sans-serif; /* Escolha uma fonte bonita para o título (ou substitua por sua preferida) */
+    font-size: 3rem; /* Tamanho grande para o título */
+    text-align: center; /* Centraliza o texto horizontalmente */
+    margin-bottom: 20px; /* Espaçamento abaixo do título */
+}
+.container {
+    /* Largura e altura para controlar o tamanho do conteúdo */
+    width: 90%;
+    height: 90vh;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column; /* Organiza o conteúdo em coluna */
+    justify-content: center;
+    align-items: center;
+    padding: 20px; /* Adiciona espaço interno */
+  }
