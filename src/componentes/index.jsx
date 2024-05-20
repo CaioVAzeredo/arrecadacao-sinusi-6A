@@ -5,7 +5,7 @@ const Valor = () => {
         <div className="container">
             <h1 className="titulo">VALOR TOTAL ATÉ O MOMENTO: </h1>
             <h2 className="valor">
-                R$ 0,00
+                R$ 6,00
             </h2>
             <img src='/imagens/qr.jpg' alt='Logo do Organo'/>
             <p className="p"><strong>Chave Pix </strong>39514655-1493-44cf-ba9c-2f0b78777ccf</p>
